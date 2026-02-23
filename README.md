@@ -3,7 +3,7 @@
 An intelligent AI Career Guidance Assistant built using **Streamlit + Google Gemini API**.  
 This application helps students and professionals discover the right career path, identify in-demand skills, and generate a structured learning roadmap through an interactive chat interface.
 
-🔗 **Live Demo:** https://huggingface.co/spaces/your-username/your-space-name
+🔗 **Live Demo:** https://huggingface.co/spaces/prasad799596/genai-career-copilot
 
 ---
 
@@ -110,9 +110,6 @@ The app will automatically build and run 🚀
 
 **Bejjanki Venkata Siva Prasad**  
 Aspiring Data Analyst | GenAI Enthusiast  
-
-🔗 GitHub: https://github.com/your-username  
-🔗 LinkedIn: https://linkedin.com/in/your-profile  
 
 ---
 
